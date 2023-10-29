@@ -50,7 +50,7 @@
       margin-right: 0; } }
 
 .ctct-form-wrapper input[type='text']:required:valid, .ctct-form-wrapper input[type='email']:required:valid, .ctct-form-wrapper input[type='password']:required:valid, .ctct-form-wrapper input[type='tel']:required:valid, .ctct-form-wrapper input[type='number']:required:valid {
-  background-image: url(/wp-content/plugins/constant-contact-forms/assets/images/check_circle.svg);
+  background-image: url(/site/wp-content/plugins/constant-contact-forms/assets/images/check_circle.svg);
   background-position: 8px 50%;
   background-repeat: no-repeat;
   background-size: 18px;
@@ -58,7 +58,7 @@
   padding-left: 32px; }
 
 .ctct-form-wrapper input[type='text']:required.ctct-invalid, .ctct-form-wrapper input[type='text'].ctct-invalid, .ctct-form-wrapper input[type='email']:required.ctct-invalid, .ctct-form-wrapper input[type='email'].ctct-invalid, .ctct-form-wrapper input[type='password']:required.ctct-invalid, .ctct-form-wrapper input[type='password'].ctct-invalid, .ctct-form-wrapper input[type='tel']:required.ctct-invalid, .ctct-form-wrapper input[type='tel'].ctct-invalid, .ctct-form-wrapper input[type='number']:required.ctct-invalid, .ctct-form-wrapper input[type='number'].ctct-invalid {
-  background: #fff url(/wp-content/plugins/constant-contact-forms/assets/images/error.svg) no-repeat;
+  background: #fff url(/site/wp-content/plugins/constant-contact-forms/assets/images/error.svg) no-repeat;
   background-color: rgba(255, 65, 54, 0.02);
   background-position: 8px 50%;
   background-size: 24px;
@@ -73,7 +73,7 @@
   font-style: italic; }
 
 .ctct-form-wrapper input.ctct-invalid {
-  background: #fff url(/wp-content/plugins/constant-contact-forms/assets/images/error.svg) no-repeat;
+  background: #fff url(/site/wp-content/plugins/constant-contact-forms/assets/images/error.svg) no-repeat;
   background-color: rgba(255, 65, 54, 0.02);
   background-position: 8px 50%;
   background-size: 24px;
@@ -111,7 +111,7 @@
   top: -9999px !important; }
 
 .ctct-form-wrapper .no-recaptcha .ctct-submitted:disabled {
-  background-image: url(/wp-content/plugins/constant-contact-forms/assets/images/oval.min.svg);
+  background-image: url(/site/wp-content/plugins/constant-contact-forms/assets/images/oval.min.svg);
   background-position: center;
   background-repeat: no-repeat;
   color: transparent;
