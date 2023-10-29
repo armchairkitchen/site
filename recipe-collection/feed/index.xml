@@ -11,7 +11,7 @@
 <channel>
 	<title>
 	Comments on: Recipe collection	</title>
-	<atom:link href="/recipe-collection/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/site/recipe-collection/feed/" rel="self" type="application/rss+xml" />
 	<link>/recipe-collection/</link>
 	<description>Judy Jackson - on food and writing</description>
 	<lastBuildDate>Sun, 29 Oct 2023 16:18:32 +0000</lastBuildDate>

@@ -11,7 +11,7 @@
 <channel>
 	<title>
 	Comments for The Armchair Kitchen	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/site/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Judy Jackson - on food and writing</description>
 	<lastBuildDate>Sun, 29 Oct 2023 16:18:35 +0000</lastBuildDate>
