@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Book reviews &#8211; The Armchair Kitchen</title>
+	<atom:link href="/category/book-reviews/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Judy Jackson - on food and writing</description>
+	<lastBuildDate>Sun, 29 Oct 2023 16:18:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>What&#8217;s new?</title>
+		<link>/whats-new-2/</link>
+		
+		<dc:creator><![CDATA[Judy Jackson]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2017 17:46:38 +0000</pubDate>
+				<category><![CDATA[Book reviews]]></category>
+		<category><![CDATA[Negotiation]]></category>
+		<guid isPermaLink="false">/?p=648</guid>
+
+					<description><![CDATA[What&#8217;s happening in The Armchair Kitchen? This week I&#8217;ve been thinking about books and what I&#8217;ve read recently.&#160; Here is a non-fiction book that made an impression. NEGOTIATION by Gavin Presman This is a self-help book; an engaging, page-turning explanation of how to come out of a business deal with both sides happy.&#160; The author <a class="read-more" href="/whats-new-2/">&#8230;&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>What&#8217;s happening in The Armchair Kitchen?</p>
+<p>This week I&#8217;ve been thinking about books and what I&#8217;ve read recently.&nbsp; Here is a non-fiction book that made an impression.</p>
+<p><strong>NEGOTIATION by Gavin Presman</strong></p>
+<p>This is a self-help book; an engaging, page-turning explanation of how to come out of a business deal with both sides happy.&nbsp; The author starts by differentiating between haggling and negotiating. He gives advice about listening, discussing, bargaining and finally agreeing. What&#8217;s interesting about this book is that his techniques, honed on concluding business deals &#8211; whether it&#8217;s buying a house or setting terms at a job interview &#8211; include the most basic necessity: how to negotiate with family.</p>
+<p><em>&#8220;Real collaboration with someone else is often accompanied by a warm connected and grounded feeling. If this feeling isn&#8217;t present we can ask ourselves whether we are really in the right state of mind to negotiate with another person.&#8221;</em></p>
+<p>This book is for anyone who has come up against conflict. Presman gives us the skills we need to navigate many aspects of our lives.</p>
+<p>Negotiation by Gavin Presman is available to buy on Amazon.</p>
+<p><a href="https://www.amazon.co.uk/Negotiation-craft-agreements-that-everyone-ebook/dp/B01GQVMAQ8/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1487243116&amp;sr=1-2&amp;keywords=negotiation">buy</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

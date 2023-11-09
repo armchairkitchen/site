@@ -1,0 +1,32 @@
+[16-Apr-2023 11:00:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[13-Aug-2023 11:24:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[31-Aug-2023 00:51:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[18-Sep-2023 16:43:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[23-Sep-2023 07:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[02-Oct-2023 07:20:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[08-Oct-2023 07:54:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
+[28-Oct-2023 08:40:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/thearmc6/public_html/wp-content/install.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/thearmc6/public_html/wp-content/install.php on line 19
